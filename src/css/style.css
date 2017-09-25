@@ -27,3 +27,23 @@
 .nav-btn:hover {
   background: #f51c61;
 }
+.search-bar {
+  width: 600px;
+  margin: 20px auto 0 auto;
+  display: flex;
+}
+.search-input {
+  height: 50px;
+  border: 1px solid #f1457c;
+  flex: 1;
+}
+.search-btn {
+  background: #f1457c;
+  height: 50px;
+  border-radius: 0;
+}
+@media (max-width: 768px) {
+  .search-bar {
+    width: 100%;
+  }
+}
