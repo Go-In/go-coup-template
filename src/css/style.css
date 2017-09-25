@@ -1,11 +1,11 @@
 .header {
   background: #f1457c;
 }
-.container {
+.full-container {
   max-width: 1000px;
   margin: 0 auto;
 }
-.nav {
+.navigation {
   display: flex;
   justify-content: space-between;
 }
