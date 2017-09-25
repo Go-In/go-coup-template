@@ -49,6 +49,22 @@
 .footer-right {
   text-align: right;
 }
+.coupon {
+  border: 1px solid #f1457c;
+}
+.coup-img {
+  width: 100%;
+  border-bottom: 1px solid #f1457c;
+}
+.content {
+  margin-top: 50px;
+}
+.coup-left {
+  border-right: 1px solid #f1457c;
+}
+.coup-text {
+  padding-left: 15px;
+}
 @media (max-width: 768px) {
   .search-bar {
     width: 100%;
