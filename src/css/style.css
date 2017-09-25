@@ -42,6 +42,13 @@
   height: 50px;
   border-radius: 0;
 }
+.footer {
+  background: #f1457c;
+  margin-top: 50px;
+}
+.footer-right {
+  text-align: right;
+}
 @media (max-width: 768px) {
   .search-bar {
     width: 100%;
