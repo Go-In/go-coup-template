@@ -1,3 +1,9 @@
+.logo-nav {
+  width: 40px;
+}
+.logo {
+  width: 150px;
+}
 .header {
   background: #f1457c;
 }
@@ -25,6 +31,10 @@
 }
 .nav-btn:hover {
   background: #f51c61;
+}
+.nav-btn > a:link, .nav-btn > a:visited {
+  text-decoration: none;
+  color: white;
 }
 .search-bar {
   width: 600px;
