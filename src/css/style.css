@@ -85,6 +85,10 @@
 .coup-text {
   padding-left: 15px;
 }
+.btn-gocoup {
+  background: #f1457c;
+  color: white;
+}
 @media (max-width: 768px) {
   .search-bar {
     width: 100%;
